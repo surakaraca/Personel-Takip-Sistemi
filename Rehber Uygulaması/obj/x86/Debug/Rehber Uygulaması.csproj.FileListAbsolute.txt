@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\bin\Debug\Rehber Uygulaması.exe
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\bin\Debug\Rehber Uygulaması.pdb
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber_Uygulaması.Personeller.resources
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber_Uygulaması.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber Uygulaması.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber Uygulaması.exe
+c:\users\user\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber Uygulaması.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Rehber Uygulaması\Rehber Uygulaması\obj\x86\Debug\Rehber Uygulaması.csprojResolveAssemblyReference.cache
